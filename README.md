@@ -7,3 +7,5 @@ Today, and from now on I hope to start some more!
 ## Test for absence of branch policy on master
 
 ## 2nd Test for absence of branch policy on master
+
+## 3rd Test for absence of branch policy on master
